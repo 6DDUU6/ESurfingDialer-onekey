@@ -2,7 +2,8 @@
 本项目用于在windows下一键启动[ESurfingDialer](https://github.com/Rsplwe/ESurfingDialer)
 
 # 使用方法
-去release下载后解压，双击Start_ESurfingDialer.bat即可
+去[release](https://github.com/6DDUU6/ESurfingDialer-onekey/releases)或者蓝奏云<https://wwo.lanzouo.com/i13SF1t01y9a>下载后解压，双击Start_ESurfingDialer.bat即可
+
 首次启动需要输入账号密码，后续启动不需要输入账号密码
 
 若要修改账号密码，去config.txt修改后重启脚本即可
