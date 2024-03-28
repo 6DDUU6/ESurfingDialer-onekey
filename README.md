@@ -1,5 +1,5 @@
 # ESurfingDialer-onekey
-本项目用于在windows下一键启动ESurfingDialer
+本项目用于在windows下一键启动[ESurfingDialer](https://github.com/Rsplwe/ESurfingDialer)
 
 # 使用方法
 去release下载后解压，双击Start_ESurfingDialer.bat即可
