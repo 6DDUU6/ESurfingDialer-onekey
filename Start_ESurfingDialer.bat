@@ -35,7 +35,7 @@ for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi
 
 set JAVA_HOME=%JAVA_HOME:"=%
 set JAVA_EXE=%JAVA_HOME%/bin/java.exe
-"%JAVA_EXE%" -jar ESurfingDialer-1.4.0-all.jar -u %account% -p %pwd%
+"%JAVA_EXE%" -jar ESurfingDialer-1.5.0-all.jar -u %account% -p %pwd%
 
 if "%OS%"=="Windows_NT" endlocal
 
