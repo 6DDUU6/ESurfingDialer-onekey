@@ -3,7 +3,7 @@
 
 # 使用方法
 
-下载压缩包，解压运行 `Start.bat`,输入账号密码即可完成认证
+下载压缩包，解压运行 `Start_ESurfingDialer.bat`,输入账号密码即可完成认证
 
 #### 提供以下下载方式：
 - [123云盘](https://www.123865.com/s/GDD4Td-9bsp3)
