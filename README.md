@@ -3,11 +3,11 @@
 
 # 使用方法
 
-下载压缩包，解压运行 `Start.bat`,输入账号密码即可完成认证
+下载压缩包，解压运行 `Start_ESurfingDialer.bat`,输入账号密码即可完成认证
 
 #### 提供以下下载方式：
-- [123云盘](https://www.123865.com/s/GDD4Td-yfsp3)
-- [iCloud](https://www.icloud.com/iclouddrive/0e1Bmk7oMqt3yD19DK0VCD7LQ#ESurfingDialer-onekey)
+- [123云盘](https://www.123865.com/s/GDD4Td-9bsp3)
+- [iCloud](https://www.icloud.com/iclouddrive/09aejLhPCq9BJj9ZrOVBq7XRQ#ESurfingDialer-One-Click-Windows-1.7.0)
 - [Github Release](https://github.com/dogliu666/ESurfingDialer-One-Click-Windows/releases/tag/Latest)
 
 首次启动需要输入账号密码，后续启动不需要输入账号密码
