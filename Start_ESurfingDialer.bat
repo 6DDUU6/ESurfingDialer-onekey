@@ -1,9 +1,10 @@
 @echo off
 chcp 65001
-title ESurfingDialer-One-Click-Windows-1.8.0
+title ESurfingDialer-One-Click-Windows-1.8.1
 setlocal enabledelayedexpansion
-set "ver=2025-1-4"
+set "ver=2025-2-20"
 set "config_file=config.txt"
+set "JAVA_HOME=.\jre"
 
 if not exist "%config_file%" (
   :input_account
